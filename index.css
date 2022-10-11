@@ -436,7 +436,6 @@ p {
 .menu-item-text {
   flex-grow: 1;
 }
-
 .menu-item-heading {
   display: flex;
   justify-content: space-between;
@@ -465,3 +464,15 @@ p {
     height: 125px;
   }
 }
+
+@media screen and (min-width: 600px){
+.containervid {
+  width: 40%;
+  padding-top: 5%;
+  padding-bottom: 1%;
+  padding-left: 30%;
+
+  position: relative;
+
+
+}}
