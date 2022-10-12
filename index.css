@@ -377,7 +377,7 @@ p {
 
 
 /*map contact page */
-.map {
+@media screen and (min-width: 600px){.map {
   width: 45%;
 
   padding-top: 5%;
@@ -385,6 +385,7 @@ p {
   padding-left: 23%;
 
   position: relative;
+}
 }
 /*Staff roster calender */
 .calendar {
