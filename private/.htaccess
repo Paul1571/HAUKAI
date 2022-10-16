@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Staff Details"
-AuthUserFile C:/Users/01ANP356/Desktop/work on this/HAUKAI Paul Anderson 4355452/HAUKAI/private/staff calendar.html/.htpasswd
+AuthUserFile /private/staff calendar.html/.htpasswd
 Require valid-user
