@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Staff Details"
-AuthUserFile eatfreshhaukai.github.io/private/.htpasswd
+AuthUserFile /eatfreshhaukai.github.io/private/.htpasswd
 Require valid-user
